@@ -16,5 +16,5 @@ Deep-tech research & engineering across **blockchain • fintech • AI**. We bu
 
 
 <p align="center">
-  <img src="./assets/wordmark.svg" alt="Groa Labs wordmark" width="720">
+  <img src="./assets/WORDMARK.svg" alt="Groa Labs wordmark" width="720">
 </p>
