@@ -13,3 +13,8 @@ Deep-tech research & engineering across **blockchain • fintech • AI**. We bu
 
 ## Contact
 - Email: gunnar@groa.online
+
+
+<p align="center">
+  <img src="./assets/wordmark.svg" alt="Groa Labs wordmark" width="720">
+</p>

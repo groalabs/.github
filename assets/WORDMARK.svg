@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" fill="#0b0d12"/>
+  <text x="60" y="185" font-family="Montserrat,Arial,Helvetica,sans-serif" font-size="120" font-weight="700" fill="#E6EDF3" letter-spacing="2">
+    GROA
+  </text>
+  <text x="520" y="185" font-family="Fira Mono,Menlo,Consolas,monospace" font-size="100" font-weight="400" fill="#8FB2FF" letter-spacing="1">
+    Labs
+  </text>
+  <line x1="60" y1="210" x2="1120" y2="210" stroke="#2B5FFF" stroke-width="6" opacity="0.6"/>
+</svg>
